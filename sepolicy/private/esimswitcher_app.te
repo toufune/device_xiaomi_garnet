@@ -1,4 +1,4 @@
-type esimswitcher_app, domain;
+type esimswitcher_app, coredomain, domain;
 typeattribute esimswitcher_app mlstrustedsubject;
 
 app_domain(esimswitcher_app)
